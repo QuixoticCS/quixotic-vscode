@@ -9,5 +9,13 @@
 </p>
 
 ## Installation
-1. Clone this repository into the extentions folder of VSCode
-2. Select Quixotic from the Color Scheme Menu within VSCode --> Accessed by pressing CTRL+K CTRL+T
+
+```sh
+
+# Clone this repository into the extensions folder of VSCode
+$ git clone https://github.com/QuixoticCS/quixotic-vscode ~/.vscode
+# Note: if using VScodium, clone into ~/.vscode-oss instead
+```
+
+## Applying
+Within VSCode, press CTRL+K CTRL+T to open the Color Scheme Menu and select `Quixotic`.
