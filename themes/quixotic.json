@@ -249,7 +249,7 @@
         "button.hoverBackground": "#5A6473",
         "button.secondaryBackground": "#131515A3",
         "button.secondaryHoverBackground": "#5A6473A3",
-        "statusBar.noFolderBackground": "#6D7580",
+        "statusBar.noFolderBackground": "#151818",
         "gitDecoration.ignoredResourceForeground": "#5C6673",
         "editorCodeLens.foreground": "#5C6673",
         "editorIndentGuide.activeBackground": "#5C6673",
