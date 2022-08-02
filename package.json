@@ -1,0 +1,23 @@
+{
+    "name": "quixotic",
+    "displayName": "Quixotic",
+    "description": "Quixotic Color Scheme for VSCode",
+    "version": "0.0.1",
+    "author": "ljmill",
+    "repository": "",
+    "engines": {
+        "vscode": "^1.63.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quixotic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/quixotic.json"
+            }
+        ]
+    }
+}
