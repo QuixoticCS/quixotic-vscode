@@ -13,8 +13,8 @@
 ```sh
 
 # Clone this repository into the extensions folder of VSCode
-$ git clone https://github.com/QuixoticCS/quixotic-vscode ~/.vscode
-# Note: if using VScodium, clone into ~/.vscode-oss instead
+$ git clone https://github.com/QuixoticCS/quixotic-vscode ~/.vscode/extensions/quixotic-theme
+# Note: if using VScodium, clone into ~/.vscode-oss/extensions/quixotic-theme instead
 ```
 
 ## Applying
