@@ -19,3 +19,6 @@ $ git clone https://github.com/QuixoticCS/quixotic-vscode ~/.vscode
 
 ## Applying
 Within VSCode, press CTRL+K CTRL+T to open the Color Scheme Menu and select `Quixotic`.
+
+## Credits
+Core configuration based on [Oni Nebula](https://github.com/psudo-dev/nebula-oni-theme)
