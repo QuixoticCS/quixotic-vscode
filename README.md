@@ -14,7 +14,7 @@
 
 # Clone this repository into the extensions folder of VSCode
 $ git clone https://github.com/QuixoticCS/quixotic-vscode ~/.vscode/extensions/quixotic-vscode
-# Note: if using VScodium, clone into ~/.vscode-oss/extensions/quixotic-vscode instead
+# Note: if using VScodium, clone into ~/.vscode-oss/extensions/quixotic instead (folder named quixotic-vscode may not work on some versions)
 ```
 
 ## Applying
